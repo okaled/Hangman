@@ -1,0 +1,35 @@
+#hangman {
+    margin: 20px;
+    font-size: 24px;
+}
+
+#word {
+    margin: 20px;
+    font-size: 120px;
+    color: red;
+    
+}
+
+#letters {
+    margin: 20px;
+    font-size: 24px;
+    color: red;
+}
+
+.hang{
+    text-align: center;
+}
+
+#letterst {
+    margin: 20px;
+    font-size: 18px;
+}
+
+#hint {
+    margin: 20px;
+    font-size: 18px;
+}
+
+body{
+    background-color: gray;
+}
